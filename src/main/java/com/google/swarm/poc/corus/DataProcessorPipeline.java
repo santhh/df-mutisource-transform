@@ -84,7 +84,7 @@ public class DataProcessorPipeline {
 		RestTemplate restTemplate = new RestTemplate();
 		final HttpHeaders headers = new HttpHeaders();
 		headers.setContentType(MediaType.APPLICATION_JSON);
-		headers.set("X-API-Key", "1f236dd0");
+		headers.set("X-API-Key", "sampleapikey");
 		UriComponentsBuilder builder = UriComponentsBuilder.fromUriString(options.getApiUrl().get());
 		LOG.info("API URL {}", builder.buildAndExpand().toUri());
 		String response = restTemplate
