@@ -1,0 +1,57 @@
+[
+  {
+    "name": "SiteTag", 
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "Type", 
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "Products", 
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "LastUpdatedTime", 
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "SourceSystem", 
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "Impressions", 
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "Revenue", 
+    "type": "NUMERIC",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "Salesperson", 
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "SalespersonId", 
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },  
+  {
+    "name": "Clicks", 
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "Date", 
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

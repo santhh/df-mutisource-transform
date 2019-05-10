@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SiteTag", 
+    "type": "STRING"
+  }, 
+  {
+    "name": "TagCount", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "LastUpdatedTimestamp", 
+    "type": "Timestamp"
+  }
+]
